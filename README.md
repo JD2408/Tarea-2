@@ -38,4 +38,6 @@
 
 ## 6. BIBLIOGRAFIA
 1. FLOYD, THOMAS L. (2007) Principios de circuitos eléctricos (8ª ed.). México:PEARSON EDUCACIÓN
-2. 
+2. Nilsson, J. W., & Riedel, S. A. (2006). Circuitos electricos (Vuelapluma, Trans.; 7th ed.). Pearson Educacion.
+
+
