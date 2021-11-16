@@ -8,12 +8,12 @@
 ## 1. OBJETIVOS
 
 ***Objetivo General***
--Entender los conceptos generales de la teoría de circuitos: intensidad de corriente, diferencia de potencial, energía y potencia eléctrica, etc.Y la relación que existe entre estas.
+- Entender los conceptos generales de la teoría de circuitos: intensidad de corriente, diferencia de potencial, energía y potencia eléctrica, etc.Y la relación que existe entre estas.
 
  ***Objetivos Específicos***
  
- -La potencia alimentada o recibida por algún elemento de un circuito de se puede calcular aplicando cierto tipo de formulas que relacionan los conceptos de intensidad de corriente y voltajes.
- -Conocer y explicar como se relaciona la energia con la potencia, y caules son sus unidades de medida.
+ - La potencia alimentada o recibida por algún elemento de un circuito de se puede calcular aplicando cierto tipo de formulas que relacionan los conceptos de intensidad de corriente y voltajes.
+ - Conocer y explicar como se relaciona la energia con la potencia, y caules son sus unidades de medida.
  
  ## 2. MARCO TEÓRICO
  
@@ -94,8 +94,8 @@ nuevo valor?
 
 
 ## 5. CONCLUSIONES
- -En conclusión podemos decir que la Potencia eléctrica es directamente proporcional al trabajo que realiza una corriente al desplazarse por una carga e inversamente proporcional al tiempo que demora en realizarse este trabajo.
- -Podemos concluir que como potencia es la rapidez con que se realiza un trabajo, se puede decir que es el tiempo que tarda en hacer la fuerza con una energía. 
+ - En conclusión podemos decir que la Potencia eléctrica es directamente proporcional al trabajo que realiza una corriente al desplazarse por una carga e inversamente proporcional al tiempo que demora en realizarse este trabajo.
+ - Podemos concluir que como potencia es la rapidez con que se realiza un trabajo, se puede decir que es el tiempo que tarda en hacer la fuerza con una energía. 
 
 ## 6. BIBLIOGRAFIA
 1. FLOYD, THOMAS L. (2007) Principios de circuitos eléctricos (8ª ed.). México:PEARSON EDUCACIÓN
