@@ -10,7 +10,7 @@
 ***Objetivo General***
 
  ***Objetivos Específicos***
- 
+ 1. Obtener curvas características corriente-voltaje de diferentes valores de resistencias
  ## 2. MARCO TEÓRICO
  
 ***Capitulo 1***
@@ -85,7 +85,8 @@ nuevo valor?
 
 
 ## 5. CONCLUSIONES
-
+1. Se pudo concluir que, la relaciónentre voltaje y corriente es lineal, ysu pendiente se denomina resistencia.
+2. 
 ## 6. BIBLIOGRAFIA
 1. FLOYD, THOMAS L. (2007) Principios de circuitos eléctricos (8ª ed.). México:PEARSON EDUCACIÓN
 2. Nilsson, J. W., & Riedel, S. A. (2006). Circuitos electricos (Vuelapluma, Trans.; 7th ed.). Pearson Educacion.
