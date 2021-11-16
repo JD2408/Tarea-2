@@ -17,6 +17,11 @@
 
 ***Capitulo 2***
 
+![Diagrama 3-1](https://user-images.githubusercontent.com/94129932/141872050-327cf9f0-e07f-4257-94c5-6748299f02ef.png)
+![Diagrama 3-2](https://user-images.githubusercontent.com/94129932/141872078-d0d6bbbb-4094-4d43-8778-0863b3193f1c.png)
+![Diagrama 3-3](https://user-images.githubusercontent.com/94129932/141872085-3d84d60d-6063-4fbe-b033-973ecb794141.png)
+![Diagrama 3-4](https://user-images.githubusercontent.com/94129932/141872094-56918afb-cbfe-410f-bfb7-54ba0cad25cc.png)
+![Diagrama 3-5](https://user-images.githubusercontent.com/94129932/141872104-b38b4741-db7e-4177-b150-d4c9e6f0206b.png)
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 
