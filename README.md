@@ -94,8 +94,8 @@ nuevo valor?
 
 
 ## 5. CONCLUSIONES
--En conclusión podemos decir que la Potencia eléctrica es directamente proporcional al trabajo que realiza una corriente al desplazarse por una carga e inversamente proporcional al tiempo que demora en realizarse este trabajo.
--Podemos concluir que como potencia es la rapidez con que se realiza un trabajo, se puede decir que es el tiempo que tarda en hacer la fuerza con una energía. 
+ -En conclusión podemos decir que la Potencia eléctrica es directamente proporcional al trabajo que realiza una corriente al desplazarse por una carga e inversamente proporcional al tiempo que demora en realizarse este trabajo.
+ -Podemos concluir que como potencia es la rapidez con que se realiza un trabajo, se puede decir que es el tiempo que tarda en hacer la fuerza con una energía. 
 
 ## 6. BIBLIOGRAFIA
 1. FLOYD, THOMAS L. (2007) Principios de circuitos eléctricos (8ª ed.). México:PEARSON EDUCACIÓN
