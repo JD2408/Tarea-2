@@ -17,11 +17,6 @@
 
 ***Capitulo 2***
 
-![Diagrama 3-1](https://user-images.githubusercontent.com/94129932/141872050-327cf9f0-e07f-4257-94c5-6748299f02ef.png)
-![Diagrama 3-2](https://user-images.githubusercontent.com/94129932/141872078-d0d6bbbb-4094-4d43-8778-0863b3193f1c.png)
-![Diagrama 3-3](https://user-images.githubusercontent.com/94129932/141872085-3d84d60d-6063-4fbe-b033-973ecb794141.png)
-![Diagrama 3-4](https://user-images.githubusercontent.com/94129932/141872094-56918afb-cbfe-410f-bfb7-54ba0cad25cc.png)
-![Diagrama 3-5](https://user-images.githubusercontent.com/94129932/141872104-b38b4741-db7e-4177-b150-d4c9e6f0206b.png)
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 
@@ -55,6 +50,8 @@ V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?
 4. La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1,
 R2 y R3.
 
+[![Imagen6.png](https://i.postimg.cc/fLs9ZDKz/Imagen6.png)](https://postimg.cc/NyNMkhSS)
+
 5. Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde,
 gris, café, rojo.
 
@@ -66,6 +63,8 @@ nuevo valor?
 [![Imagen4.png](https://i.postimg.cc/G2QNc3kd/Imagen4.png)](https://postimg.cc/wy1F2pfG)
 
 7. Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia:
+[![Imagen5.png](https://i.postimg.cc/qMR5cTdZ/Imagen5.png)](https://postimg.cc/s1kmybxp)
+
 
 
 ### CAPÍTULO 4
