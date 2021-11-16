@@ -28,7 +28,7 @@
 ***Capitulo 2***
 
 ![Diagrama en blanco (2)](https://user-images.githubusercontent.com/93794279/141873242-b3060d57-de36-4ce5-b084-763d7d3c54bf.png)
-![Doc2_page-0001](https://user-images.githubusercontent.com/93794279/141873249-0a237cd7-77ba-472c-87e5-3a8d72a43891.jpg)
+![Diagrama en blanco (8)](https://user-images.githubusercontent.com/93794279/141878929-895ea5c0-c79f-48f6-9f7f-c24332523ba1.png)
 
 
 
