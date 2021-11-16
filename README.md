@@ -176,13 +176,13 @@ yor, menor o igual a la potencia que hay durante un intervalo de dos minutos?
 
 24. Cierta fuente de potencia suministra 2 W de forma continua a una carga. Está operando al 60% de eficiencia. En un periodo de 24 h, ¿cuántos kilowatts-hora utiliza la fuente de potencia?
 
-![image](https://user-images.githubusercontent.com/93794279/141906053-e7acd169-4736-41dc-ae7c-69d7251cea70.png)
-
+![image](https://user-images.githubusercontent.com/93794279/141915359-00cd18d2-2030-41c4-8857-45df0fabcfe8.png)
 
 ## 4. VIDEOS
 
-
 ### CAPÍTULO 3
+
+https://youtu.be/i2JulJZmc20
 
 ### CAPÍTULO 4
 
