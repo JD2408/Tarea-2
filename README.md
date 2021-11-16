@@ -8,20 +8,28 @@
 ## 1. OBJETIVOS
 
 ***Objetivo General***
+-Entender los conceptos generales de la teoría de circuitos: intensidad de corriente, diferencia de potencial, energía y potencia eléctrica, etc.Y la relación que existe entre estas.
 
  ***Objetivos Específicos***
- 1. Obtener curvas características corriente-voltaje de diferentes valores de resistencias
+ 
+ -La potencia alimentada o recibida por algún elemento de un circuito de se puede calcular aplicando cierto tipo de formulas que relacionan los conceptos de intensidad de corriente y voltajes.
+ -Conocer y explicar como se relaciona la energia con la potencia, y caules son sus unidades de medida.
+ 
  ## 2. MARCO TEÓRICO
  
 ***Capitulo 1***
 
-***Capitulo 2***
 ![Diagrama 3-1](https://user-images.githubusercontent.com/94129932/141872557-0d77c1ef-abd1-4f5e-89cf-d0e536bec58e.png)
-
 ![Diagrama 3-2](https://user-images.githubusercontent.com/94129932/141872340-109b3389-7705-4ec7-944a-33f87eac5135.png)
 ![Diagrama 3-3](https://user-images.githubusercontent.com/94129932/141872345-3b0208c7-1695-4a04-83cc-e7ed763b26ce.png)
 ![Diagrama 3-4](https://user-images.githubusercontent.com/94129932/141872336-9b5f6e6a-fcc8-4c42-af80-4232f2a26b98.png)
 ![Diagrama 3-5](https://user-images.githubusercontent.com/94129932/141872338-2d80aef4-e74c-4c8a-aba7-4ce3b870861d.png)
+
+***Capitulo 2***
+
+![Diagrama en blanco (2)](https://user-images.githubusercontent.com/93794279/141873242-b3060d57-de36-4ce5-b084-763d7d3c54bf.png)
+![Doc2_page-0001](https://user-images.githubusercontent.com/93794279/141873249-0a237cd7-77ba-472c-87e5-3a8d72a43891.jpg)
+
 
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
@@ -74,6 +82,7 @@ nuevo valor?
 
 
 ### CAPÍTULO 4
+*SECCIÓN 3–1 ENERGÍA Y POTENCIA*
 
 
 ## 4. VIDEOS
@@ -85,8 +94,9 @@ nuevo valor?
 
 
 ## 5. CONCLUSIONES
-1. Se pudo concluir que, la relaciónentre voltaje y corriente es lineal, ysu pendiente se denomina resistencia.
-2. 
+-En conclusión podemos decir que la Potencia eléctrica es directamente proporcional al trabajo que realiza una corriente al desplazarse por una carga e inversamente proporcional al tiempo que demora en realizarse este trabajo.
+-Podemos concluir que como potencia es la rapidez con que se realiza un trabajo, se puede decir que es el tiempo que tarda en hacer la fuerza con una energía. 
+
 ## 6. BIBLIOGRAFIA
 1. FLOYD, THOMAS L. (2007) Principios de circuitos eléctricos (8ª ed.). México:PEARSON EDUCACIÓN
 2. Nilsson, J. W., & Riedel, S. A. (2006). Circuitos electricos (Vuelapluma, Trans.; 7th ed.). Pearson Educacion.
