@@ -9,7 +9,7 @@
 
 ***Objetivo General***
 - Entender los conceptos generales de la teoría de circuitos: intensidad de corriente, diferencia de potencial, energía y potencia eléctrica, etc.Y la relación que existe entre estas.
--Entender a la perfeccion la ley de ohm y ser capaz de realizar calculos con variaciones de corriente resistencia y voltaje
+- Entender a la perfeccion la ley de ohm y ser capaz de realizar calculos con variaciones de corriente resistencia y voltaje
 
  ***Objetivos Específicos***
  
