@@ -39,8 +39,7 @@
 
 *SECCIÓN 3–1 La relación de corriente, voltaje y resistencia*
 
-1. En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente
-cuando:
+1. En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente cuando:
 
 (a) el voltaje se triplica
 (b) el voltaje se reduce en 75%
@@ -55,33 +54,27 @@ cuando:
 
 [![Imagen2.png](https://i.postimg.cc/ZK0PRYrj/Imagen2.png)](https://postimg.cc/KRS3p2pg)
 
-3. Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente
-el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de
-V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?
+3. Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?
 
 [![Imagen3.png](https://i.postimg.cc/FHV0Cfmr/Imagen3.png)](https://postimg.cc/xXqkc1ch)
 
-4. La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1,
-R2 y R3.
+4. La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1, R2 y R3.
 
 [![Imagen6.png](https://i.postimg.cc/fLs9ZDKz/Imagen6.png)](https://postimg.cc/NyNMkhSS)
 
-5. Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde,
-gris, café, rojo.
+5. Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde, gris, café, rojo.
 
+[![Imagen13.png](https://i.postimg.cc/VsTY7KTs/Imagen13.png)](https://postimg.cc/XXfSqk4t)
 
-
-6. Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más
-tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia,
-debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su
-nuevo valor?
+6. Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia, debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su nuevo valor?
 
 [![Imagen4.png](https://i.postimg.cc/G2QNc3kd/Imagen4.png)](https://postimg.cc/wy1F2pfG)
 
 7. Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia:
+
 [![Imagen5.png](https://i.postimg.cc/qMR5cTdZ/Imagen5.png)](https://postimg.cc/s1kmybxp)
 
-
+[![Imagen14.png](https://i.postimg.cc/SsnKs355/Imagen14.png)](https://postimg.cc/7Gy4tsqM)
 
 *SECCIÓN 3–2 Cálculo de la corriente*
 
@@ -93,8 +86,7 @@ nuevo valor?
 
 [![Imagen3.png](https://i.postimg.cc/rmTFHyqc/Imagen3.png)](https://postimg.cc/CZvgBgZ6)
 
-11. Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25 V. Determine la
-corriente del resistor si el código de colores es amarillo, violeta, naranja, plata.
+11. Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25 V. Determine la corriente del resistor si el código de colores es amarillo, violeta, naranja, plata.
 
 [![Imagen4.png](https://i.postimg.cc/rsSHPcF6/Imagen4.png)](https://postimg.cc/1V3M8kqM)
 
@@ -114,9 +106,24 @@ corriente del resistor si el código de colores es amarillo, violeta, naranja, p
 
 [![Imagen8.png](https://i.postimg.cc/fTXM1w7J/Imagen8.png)](https://postimg.cc/fJz49QrN)
 
-15. Se conecta una fuente de 6 V a un resistor de 100  mediante dos tramos de alambre de cobre calibre
-18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de
-100 . Determine lo siguiente:
+15. Se conecta una fuente de 6 V a un resistor de 100  mediante dos tramos de alambre de cobre calibre 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de 100 . Determine lo siguiente:
+
+[![Imagen9.png](https://i.postimg.cc/zfZG2yHt/Imagen9.png)](https://postimg.cc/dh6FLtBr)
+
+
+*SECCIÓN 3–4 Cálculo de la resistencia*
+
+16. Calcule la resistencia de un reóstato para cada juego de valores de V e I:
+
+[![Imagen10.png](https://i.postimg.cc/4dMcdJFr/Imagen10.png)](https://postimg.cc/ygmxpzKP)
+
+17. En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida
+
+[![Imagen11.png](https://i.postimg.cc/zX3DJsm1/Imagen11.png)](https://postimg.cc/N5qvDPfN)
+
+18. Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? 
+
+[![Imagen12.png](https://i.postimg.cc/mg2nfsKQ/Imagen12.png)](https://postimg.cc/1f2BwLmt)
 
 
 
@@ -220,6 +227,7 @@ yor, menor o igual a la potencia que hay durante un intervalo de dos minutos?
 ## 4. VIDEOS
 
 ### CAPÍTULO 3
+
 
 
 ### CAPÍTULO 4
