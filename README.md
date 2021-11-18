@@ -9,9 +9,10 @@
 
 ***Objetivo General***
 - Entender los conceptos generales de la teoría de circuitos: intensidad de corriente, diferencia de potencial, energía y potencia eléctrica, etc.Y la relación que existe entre estas.
-
+-Entender a la perfeccion la ley de ohm y ser capaz de realizar calculos con variaciones de corriente resistencia y voltaje
  ***Objetivos Específicos***
- 
+ -Describir aproximaciones basicas para calcular el error 
+ -Analizar la conducccion de diferentes tipos de cables y su relaion con la resistencia total
  - La potencia alimentada o recibida por algún elemento de un circuito de se puede calcular aplicando cierto tipo de formulas que relacionan los conceptos de intensidad de corriente y voltajes.
  - Conocer y explicar como se relaciona la energia con la potencia, y caules son sus unidades de medida.
  
@@ -236,6 +237,7 @@ https://youtu.be/i2JulJZmc20
 
 
 ## 5. CONCLUSIONES
+- Se concluye que la ley de ohm puede ser aplicada en tres casos, cuandio se desconoce la corriente, la resistencia o el voltaje teniendo asi solo tres formulas de la ley de ohm que a la final serian la misma con incognitas depejadas 
  - En conclusión podemos decir que la Potencia eléctrica es directamente proporcional al trabajo que realiza una corriente al desplazarse por una carga e inversamente proporcional al tiempo que demora en realizarse este trabajo.
  - Podemos concluir que como potencia es la rapidez con que se realiza un trabajo, se puede decir que es el tiempo que tarda en hacer la fuerza con una energía. 
 
