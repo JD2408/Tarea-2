@@ -12,8 +12,9 @@
 -Entender a la perfeccion la ley de ohm y ser capaz de realizar calculos con variaciones de corriente resistencia y voltaje
 
  ***Objetivos Específicos***
- -Describir aproximaciones basicas para calcular el error 
- -Analizar la conducccion de diferentes tipos de cables y su relaion con la resistencia total
+ 
+ - Describir aproximaciones basicas para calcular el error 
+ - Analizar la conducccion de diferentes tipos de cables y su relaion con la resistencia total
  - La potencia alimentada o recibida por algún elemento de un circuito de se puede calcular aplicando cierto tipo de formulas que relacionan los conceptos de intensidad de corriente y voltajes.
  - Conocer y explicar como se relaciona la energia con la potencia, y caules son sus unidades de medida.
  
