@@ -69,6 +69,8 @@ R2 y R3.
 5. Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde,
 gris, café, rojo.
 
+
+
 6. Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más
 tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia,
 debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su
@@ -78,6 +80,43 @@ nuevo valor?
 
 7. Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia:
 [![Imagen5.png](https://i.postimg.cc/qMR5cTdZ/Imagen5.png)](https://postimg.cc/s1kmybxp)
+
+
+
+*SECCIÓN 3–2 Cálculo de la corriente*
+
+9. Determine la corriente en cada caso:
+
+[![Imagen2.png](https://i.postimg.cc/Bv6CK3rS/Imagen2.png)](https://postimg.cc/9D6966XK)
+
+10. Se conecta un resistor de 10  a través de una batería de 12 V. ¿Cuál es la corriente a través del resistor?
+
+[![Imagen3.png](https://i.postimg.cc/rmTFHyqc/Imagen3.png)](https://postimg.cc/CZvgBgZ6)
+
+11. Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25 V. Determine la
+corriente del resistor si el código de colores es amarillo, violeta, naranja, plata.
+
+[![Imagen4.png](https://i.postimg.cc/rsSHPcF6/Imagen4.png)](https://postimg.cc/1V3M8kqM)
+
+12. Si el voltaje del problema 20 se duplica, ¿se fundirá un fusible de 0.5 A? Explique su respuesta.
+
+[![Imagen5.png](https://i.postimg.cc/L4tH0Q6S/Imagen5.png)](https://postimg.cc/3Ww5kBvf)
+
+
+*SECCIÓN 3–3 Cálculo de voltaje*
+
+13. Calcule el voltaje para cada valor de I y R:
+
+[![Imagen7.png](https://i.postimg.cc/50wHxwLF/Imagen7.png)](https://postimg.cc/LY84DgyH)
+
+14. Se leen tres amperes de corriente a través de un resistor de 27  conectado a una fuente de voltaje.
+¿Cuánto voltaje produce la fuente?
+
+[![Imagen8.png](https://i.postimg.cc/fTXM1w7J/Imagen8.png)](https://postimg.cc/fJz49QrN)
+
+15. Se conecta una fuente de 6 V a un resistor de 100  mediante dos tramos de alambre de cobre calibre
+18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de
+100 . Determine lo siguiente:
 
 
 
